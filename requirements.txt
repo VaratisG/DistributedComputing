@@ -1,0 +1,2 @@
+pyspark==3.5.8
+findspark==2.0.1
